@@ -13,5 +13,3 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Lista de tus proyectos]
 ## Intereses
 * [Lista de tus intereses]
-
-### hool
